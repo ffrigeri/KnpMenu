@@ -1,5 +1,5 @@
 {
-    "name":         "knplabs/knp-menu",
+    "name":         "ffrigeri/knp-menu",
     "type":         "library",
     "description":  "An object oriented menu library",
     "keywords":     ["menu", "tree"],
